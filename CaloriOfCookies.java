@@ -6,7 +6,7 @@ public class CaloriOfCookies {
         int A = sc.nextInt();
         
         double TC;
-        TC = A * 0.75 ;
+        TC = A * 75.0 ;
         System.out.println("Total calories =" + TC  );
         
     }
